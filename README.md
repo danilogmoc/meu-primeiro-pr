@@ -10,4 +10,4 @@ Este projeto foi criado para eu treinar como enviar contribuições no GitHub: c
 
 1. Crie uma branch
 2. Faça sua alteração
-3. Abra um Pull Request decrevendo a mudança
+3. Abra um Pull Request descrevendo a mudança
